@@ -2,6 +2,9 @@
 
 HTMLファイルをランダムに生成することができます。
 
+## 操作の様子
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zEe2HotKLCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 操作手順
 1. ファイルの数を入力する(0 - 30まで)
 1. ヘッダー、フッターの表示のON/OFFを設定する

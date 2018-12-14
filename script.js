@@ -2,8 +2,8 @@
 
 new Docute({
   target: '#docute',
-  sourcePath: './docs/',
-  editLinkBase: 'https://github.com/USER/REPO/blob/master/docs',
+  sourcePath: '/docs',
+  editLinkBase: 'https://github.com/MatsukiJinen/mockup-generator-docs/blob/master',
   sidebar: [
     {
       links: [

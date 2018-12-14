@@ -2,6 +2,9 @@
 
 任意のHTMLファイルを生成することができます。
 
+## 操作の様子
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zEe2HotKLCU?start=180" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 操作手順
 1. 表示ブロックをリストから選び追加ボタンで追加する
 1. 表示ブロックをドラッグ&ドロップで、適宜、配置する
