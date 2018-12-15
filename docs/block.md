@@ -3,9 +3,9 @@
 各表示ブロックの詳細説明
 
 ## ヘッダー
-![ヘッダー01](https://mockup.takeys.link/img/headers/012.png)
+![ヘッダー01](http://mockup-generator.test/img/headers/009.png)
 
-![ヘッダー01](https://mockup.takeys.link/img/headers/006.png)
+![ヘッダー01](http://mockup-generator.test/img/headers/013.png)
 
 上記のようなヘッダー部分のHTMLテキスト。
 

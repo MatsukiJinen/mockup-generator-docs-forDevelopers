@@ -8,7 +8,7 @@ MockUp Automatic Generation Siteは、プログラマーのためにモックア
 - [マニュアル](/manual)
 - [表示ブロックの詳細](/block)
 
-# Quick　Start
+# クイックスタート
 
 ## 初期設定
 

@@ -22,6 +22,10 @@ new Docute({
         {
           title: '表示ブロック詳細',
           link: '/block'
+        },
+        {
+          title: 'コンポーネントの詳細',
+          link: '/component'
         }
       ]
     }
