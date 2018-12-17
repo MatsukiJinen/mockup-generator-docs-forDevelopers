@@ -1,14 +1,22 @@
-# Introduction to MockUp Automatic Generation Site
-MockUp Automatic Generation Siteは、プログラマーのためにモックアップのHTMLファイルを自動生成するためのサイトです。
+# 開発者向けドキュメント
+MockUp Automatic Generation Siteの開発者向けドキュメントです。
 
-# How does it work
-生成されるHTMLファイルはランダム生成とマニュアル生成の２パターンから選ぶことができます。モックアップとして複数のファイルが必要な場合はランダム生成。具体的にデザインの決まったHTMLファイルを生成したい場合はマニュアル作成をお選びください。
+## システム構成
+![システム構成](https://scontent.ffuk4-1.fna.fbcdn.net/v/t1.15752-9/48355722_492679531222914_332665459256066048_n.png?_nc_cat=109&_nc_ht=scontent.ffuk4-1.fna&oh=f672350cb04a7c02943e1932ac200b94&oe=5C9C8830)
 
-- [ランダム](/random)
-- [マニュアル](/manual)
-- [表示ブロックの詳細](/block)
+- フロントエンド
+  - Vue.js 2.5.7
 
-# クイックスタート
+
+- バックエンド
+  - Laravel 5.6.26
+  - python3.7.1 (HTML生成スクリプトに利用)
+
+
+- サーバー
+  - nginx 1.12 (Web)
+  - Mysql5.7 (Database)
+
 
 ## 初期設定
 
