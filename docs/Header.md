@@ -7,5 +7,5 @@ components/randomComponents/Header.vue
 コンポーネントで利用しているプロパティ（props）の詳細説明
 
 ### flag
-RandomComponent.vue (flag) => props:["flag"]
+ヘッダーを生成するか否かの論理値
 

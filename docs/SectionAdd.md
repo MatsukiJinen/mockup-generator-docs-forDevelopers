@@ -8,22 +8,22 @@ components/SelectableComponents/SectionAdd.vue
 コンポーネントで利用しているプロパティ（props）の詳細説明
 
 ### options
-SelectableComponent (options) => props:["options"]
+select要素のoption要素に表示項目を管理
 
 ### allList
-SelectableComponent (allList) => props:["allList"]
+表示ブロックのアイテム数を管理
 
 ### sectionList
-SelectableComponent (sectionList) => props:["sectionList"]
+表示ブロックの配列
 
 ## data 
 コンポーネントで利用しているデータ(data)の詳細説明
 
-### value1
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt nostrum esse porro veritatis, voluptatem reiciendis possimus accusantium, cumque, pariatur atque dolores? Veritatis ut quas recusandae, dolor fugiat non aliquid ex!
+### currentValue
+表示ブロックの選択肢
 
 ## methods
 コンポーネントで利用しているメソッドの詳細説明
 
 ### handelChange
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis veniam praesentium atque dignissimos consequuntur facere saepe corporis rem quaerat nostrum adipisci et culpa, aperiam temporibus, incidunt ipsa, earum molestias, harum.
+表示ブロックを追加

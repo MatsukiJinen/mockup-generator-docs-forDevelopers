@@ -4,7 +4,7 @@
 components/randomComponents/ElementDraggable.vue
 
 ## 外部components
-- draggable
+- draggable [GitHub](https://github.com/SortableJS/Vue.Draggable)
 
 ## components
 - 'draggable':draggable
@@ -13,25 +13,22 @@ components/randomComponents/ElementDraggable.vue
 コンポーネントで利用しているプロパティ（props）の詳細説明
 
 ### form1
-RandomComponent.vue (form1) => props:["form1"]
+表示ブロックを管理するフォーム
 
 ### options
-RandomComponent.vue (options) => props:["options"]
+select要素のoption要素に表示項目を管理
 
 ## methods
 コンポーネントで利用しているメソッドの詳細説明
 
 ### removeDomain
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis magni numquam quae vero quos ab aut obcaecati, doloremque reprehenderit aspernatur, nulla, dolor, cupiditate dolore! Veritatis inventore eum vel fuga. Quibusdam!
+表示ブロックを削除
 
 ### addDomain
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero rem perspiciatis labore, dolorum. Beatae ut laborum, ipsam reprehenderit totam eum velit. Iusto, nobis, earum! Repellendus placeat est suscipit ut officia.
-
-### handleChange
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit provident blanditiis dicta itaque hic sequi reiciendis quasi laborum, corrupti, fuga dolor suscipit ipsum voluptatem repellendus excepturi voluptate tempore quidem quia.
+表示ブロックを追加
 
 ### inputChanged
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem natus ipsum, incidunt quis quasi illum similique officiis debitis tenetur minus aliquam omnis repellat at est rem expedita, quisquam molestiae voluptates!
+表示ブロックの並べ替えをするメソッド
 
 ### getComponentData
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas iure mollitia adipisci est tempora pariatur. Suscipit, earum, id quos libero, natus culpa quo neque asperiores harum obcaecati dolor veniam laudantium.
+表示ブロックを並べ替えるためのコンポーネントを取得する

@@ -4,7 +4,7 @@
 components/selectableComponents/Elementdraggable.vue
 
 ## 外部components
-- vuedraggable
+- vuedraggable[GitHub](https://github.com/SortableJS/Vue.Draggable)
 
 ## components
 - 'draggable':draggable
@@ -13,47 +13,43 @@ components/selectableComponents/Elementdraggable.vue
 コンポーネントで利用しているプロパティ（props）の詳細説明
 
 ### sectionList
-SelectableComponent (sectionList) => props:["sectionList"]
+生成するファイルの表示ブロックを管理する配列
 
 ### labels
-SelectableComponent (labels) => props:["labels"]
+表示ブロックを管理
 
 ## data
 コンポーネントで利用しているデータ(data)の詳細説明
 
 ### imageStyle
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum totam cupiditate unde, modi aut facilis eos atque molestias aperiam quas, cumque ullam illo necessitatibus dolorem minus nemo natus architecto ducimus.
+画像のcssプロパティ
 
 ## methods
 コンポーネントで利用しているメソッドの詳細説明
 
 ### applyBottomStyle
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio unde nisi atque ad quos accusamus hic enim voluptatibus veniam beatae laudantium pariatur tempore dolorum delectus praesentium sint, vitae repellat eos.
+最下部の表示cssプロパティ
 
 ### currentSelectoin
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus sit assumenda quas, quo debitis minus quidem dolorum aspernatur nobis molestias nulla, a ducimus, rerum officiis temporibus veniam qui perferendis quae!
+表示ブロックにIDを付与
 
 ### handleSelectedImage
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius quam accusantium odit nihil nemo, nostrum ratione, ab at molestiae sapiente, atque natus. Vel, ratione laudantium eum animi! Quae, magni, mollitia.
+表示ブロックをリストから追加
 
 ### disableModal
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla voluptate, aliquid iure commodi, corrupti pariatur obcaecati ipsam cumque esse earum veniam? Harum in nihil tempora. Animi magnam, mollitia praesentium impedit!
+表示ブロックリストを閉じる
 
 ### enableModal
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione suscipit modi dolores nesciunt ipsa eos officia natus dolor, fugiat, rem temporibus nihil laboriosam eveniet iure, porro ea quidem totam. Iste.
+表示ブロックリストを表示する
 
 ### chunk
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, reiciendis necessitatibus excepturi? Asperiores sit magnam voluptates aliquid, reprehenderit itaque aperiam, assumenda optio, dolor omnis pariatur consequatur iste voluptate 
-vero eum!
+表示ブロックリストを3列で表示しやすいように配列を分割する
 
 ### removeDomain
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum error, atque eos laborum quam ipsa ad numquam, non nostrum debitis est repellat laboriosam, eligendi fuga vero porro laudantium accusantium molestias.
-
-### handleChange
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus adipisci magni voluptate consequuntur reiciendis beatae quas fugit ullam ex? Et, perferendis dolorem possimus voluptatibus inventore quidem dicta quo nemo.
+表示ブロックを削除
 
 ### inputChanged
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis natus nihil veniam nulla, eveniet sed, perspiciatis quisquam tempore voluptas porro quo impedit eum voluptate libero ut, rerum explicabo officia necessitatibus.
+表示ブロックの並べ替えをするメソッド
 
 ### getComponentData
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum consequuntur doloremque voluptate ipsum qui itaque, laudantium vitae, eum magni? Amet sapiente, aperiam iure. Itaque id aliquid molestiae mollitia, ratione sequi.
+表示ブロックを並べ替えるためのコンポーネントを取得する

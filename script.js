@@ -14,6 +14,10 @@ new Docute({
         {
           title: 'コンポーネント',
           link: '/component'
+        },
+        {
+          title: 'ライブラリ',
+          link: '/library'
         }
       ]
     }

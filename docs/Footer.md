@@ -7,4 +7,4 @@ components/randomComponents/Footer.vue
 コンポーネントで利用しているプロパティ（props）の詳細説明
 
 ### flag
-RandomComponent.vue (flag) => props:["flag"]
+フッダーを生成するか否かの論理値
