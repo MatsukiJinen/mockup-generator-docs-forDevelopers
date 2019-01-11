@@ -1,6 +1,14 @@
 # 開発者向けドキュメント
 MockUp Automatic Generation Siteの開発者向けドキュメントです。
 
+## 操作の様子
+
+ランダム生成
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UmaQF1v9My4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+マニュアル生成
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P3uG6HYEj2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## システム構成
 ![システム構成](https://scontent.ffuk4-1.fna.fbcdn.net/v/t1.15752-9/48355722_492679531222914_332665459256066048_n.png?_nc_cat=109&_nc_ht=scontent.ffuk4-1.fna&oh=f672350cb04a7c02943e1932ac200b94&oe=5C9C8830)
 
